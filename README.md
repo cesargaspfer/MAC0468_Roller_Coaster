@@ -6,7 +6,7 @@ Agradeço ao Matheus Tavares Bernardino pelos códigos dos exercícios programas
 
 Agradeço a todos que me apoiaram e ajudaram a completar esse projeto.
 
-# Setting up MAC0468 Roller Coaster code base 
+# Setting up MAC0468 Roller Coaster code 
 
 Follow the instructions below based on your OS to set up the requirements
 and then follow the steps under **Wrapping up**.
