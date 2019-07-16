@@ -1,5 +1,5 @@
 '''
-This code makes extrudes
+This code makes extrusions
 
 Funnctions:
     extrude_along(points, normals, initial_basis, curve, angles, resolution)
