@@ -1,11 +1,3 @@
-# Agradecimentos
-
-Agradeço ao Marcel Parolin Jackowski pelas aulas de computação gráfica e pelo código base para a montanha-russa disponível em: https://github.com/mjck/mac420
-
-Agradeço ao Matheus Tavares Bernardino pelos códigos dos exercícios programas feitos na disciplina MAC0420. Alguns trechos deles foram incluídos no projeto atual.
-
-Agradeço a todos que me apoiaram e ajudaram a completar esse projeto.
-
 # Setting up MAC0468 Roller Coaster code 
 
 Follow the instructions below based on your OS to set up the requirements
@@ -115,4 +107,13 @@ If you do not see any messages, you were successful. You may now clone
 the repository:
 
 	> git clone https://github.com/cesargaspfer/MAC0468_Roller_Coaster.git
+	
+	
+# Agradecimentos
+
+Agradeço ao Marcel Parolin Jackowski pelas aulas de computação gráfica e pelo código base para a montanha-russa disponível em: https://github.com/mjck/mac420
+
+Agradeço ao Matheus Tavares Bernardino pelos códigos dos exercícios programas feitos na disciplina MAC0420. Alguns trechos deles foram incluídos no projeto atual.
+
+Agradeço a todos que me apoiaram e ajudaram a completar esse projeto.
 
